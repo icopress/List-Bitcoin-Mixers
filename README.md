@@ -52,7 +52,7 @@ But no matter what information you see online, be skeptical! In this particular 
 
 ### List of Bitcoin Mixers
 
-| Project       | Launched	                | Service Fees       |Mix Amount      |Thor Mirror      |Discussion thread      |AML rating       |
+| Project       | Launched	                | Fees       |Mix Amount      |Thor Mirror      |Discussion      |AML rating       |
 | ------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 | [Mixer.Money](https://mixer.money/)     | 2016    | 3-5% | 0.003 - 50 BTC | [Yes](http://mixermo4pgkgep3k3qr4fz7dhijavxnh6lwgu7gf5qeltpy4unjed2yd.onion/) | [Bitcointalk](https://bitcointalk.org/index.php?topic=1725308.msg17266917#msg17266917) | No rating |
 | [MixTum](https://mixtum.io/)     | 2018    | 3-5% | 0.003 - 50 BTC | [Yes](http://mixtumjzn2tsiusfkdhutntamspsg43kgt764qbdaxjebce4h6fcfiad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314446.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=314446.msg1533631#msg1533631) |
