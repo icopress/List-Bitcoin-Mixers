@@ -48,11 +48,11 @@ These kinds of news articles only harm the privacy niche, since editors do not c
 - [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2024 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 39532 times).
 - [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 18037 times).
 
-But no matter what information you see online, be skeptical! In this particular case, the resources mentioned are in the official Bitcoin Wiki (BitList & BitMixList). And if these aggregators do not have the Bitcoin mixer that you came across, then you should not trust such a mixer.
+But no matter what information you see online, be skeptical! In this particular case, the resources mentioned are in the official [Bitcoin Wiki](https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also) (BitList & BitMixList). And if these aggregators do not have the Bitcoin mixer that you came across, then you should not trust such a mixer.
 
 ### List of Bitcoin Mixers
 
-| Project       | Launched	                | Fees       |Mix Amount      |Thor Mirror      |Discussion      |AML rating       |
+| Project       | Launched	                | Fees       |Mix Amount      |Thor Mirror      |Discussion Thread     |AML Rating       |
 | ------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 | [Mixer.Money](https://mixer.money/)     | 2016    | 3-5% | 0.003 - 50 BTC | [Yes](http://mixermo4pgkgep3k3qr4fz7dhijavxnh6lwgu7gf5qeltpy4unjed2yd.onion/) | [Bitcointalk](https://bitcointalk.org/index.php?topic=1725308.msg17266917#msg17266917) | No rating |
 | [MixTum](https://mixtum.io/)     | 2018    | 3-5% | 0.003 - 50 BTC | [Yes](http://mixtumjzn2tsiusfkdhutntamspsg43kgt764qbdaxjebce4h6fcfiad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314446.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=314446.msg1533631#msg1533631) |
