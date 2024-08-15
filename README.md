@@ -72,11 +72,11 @@ But no matter what information you see online, be skeptical! In this particular 
   </a>
   <span> | </span>
   <a href="https://bitcointalk.org/index.php?topic=5483310">
-    BitcoinTalk
+    BitcoinTalk Thread
   </a>
   <span> | </span>
   <a href="https://www.altcoinstalks.com/index.php?topic=322018.0">
-    AltcoinTalk
+    AltcoinTalk Thread
   </a>
   <span> | </span>
   <a href="https://bitlist.medium.com/">
