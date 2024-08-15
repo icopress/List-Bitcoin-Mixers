@@ -5,7 +5,9 @@
     <a href="https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also"><img src="https://badgen.net/badge/icon/BitList on Bitcoin Wiki?icon=wiki&label" /></a>
     <a href="https://bitcointalk.org/index.php?topic=5483310"><img src="https://badgen.net/badge/icon/Bitcointalk Thread?icon=bitcoin&label" /></a>
      <a href="https://bitcointalk.org/index.php?topic=5483310.msg64252274#msg64252274"><img src="https://badgen.net/static/Data/Verified/green" /></a>
-
+<h6 align="center">
+    by icopress
+</h6>
 
 <p align="center">
   <a href="(https://bitlist.co/)">
@@ -14,7 +16,7 @@
 </p>
 
 <h3 align="center">
-    BitList, a non-profit registry of Bitcoin mixers curated by the community.
+    A non-profit registry of Bitcoin mixers and anonymous exchanges curated by the community..
 </h3>
 
 ### Best Bitcoin Mixers in 2024?
