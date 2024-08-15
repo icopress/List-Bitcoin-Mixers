@@ -23,11 +23,11 @@
     A non-profit registry of Bitcoin mixers and anonymous exchanges curated by the community..
 </h4>
 
-### Best Bitcoin Mixers in 2024?
+## Best Bitcoin Mixers in 2024?
 
 If you enter a phrase like “Best Bitcoin Mixer” you'll come across a dozen sponsored news articles that mention trusted mixers alongside scam ones. These kinds of news articles only harm the privacy niche, since editors do not check the content and publish unverified and misleading information for money. I have been a member of [Bitcointalk](https://bitcointalk.org/index.php?action=profile;u=1137579) for many years and have seen with my own eyes how threads regularly appear with accusations of fraud against phishing or fraudulent mixers. The verdict is: Never search for a Bitcoin mixer using Google.
 
-### Cross-search
+## Cross-search
 
 - [BitList](https://bitlist.co/) - The list was created by a Bitcointalk user. Data is tracked in real time: site status, activity in discussion threads of these mixers, year of creation, commission, hashtags, **AML status**.
 - [BitMixList](https://bitmixlist.org/) - The site has a minimalistic interface, very good wiki page, year of creation, clearnet, tor, withdraw fee, mixing Fee. There is also a function for checking letters of guarantee.
@@ -36,7 +36,7 @@ If you enter a phrase like “Best Bitcoin Mixer” you'll come across a dozen s
 
 But no matter what information you see online, be skeptical! In this particular case, the resources mentioned are in the official [Bitcoin Wiki](https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also) (BitList & BitMixList). And if these aggregators do not have the Bitcoin mixer that you came across, then you should not trust such a mixer.
 
-### List of Bitcoin Mixers
+## List of Bitcoin Mixers
 
 | Project       | Launched	                | Fees       |Mix Amount      |Thor Mirror      |Discussion Thread     |AML Rating       |
 | ------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
@@ -62,7 +62,7 @@ But no matter what information you see online, be skeptical! In this particular 
     Data is tracked in real time: site status, activity in threads, year of creation, commission, AML status.
 </h4>
 
-<h3 align="center">
+<h4 align="center">
   <a href="https://bitlist.co/">
     Website
   </a>
@@ -86,4 +86,11 @@ But no matter what information you see online, be skeptical! In this particular 
   <a href="https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also">
     BitList on Bitcoin Wiki
   </a>
-</h3>
+</h4>
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+ If you come across something you don't understand, use Google. But no matter what information you see online, be skeptical! If you notice any inconsistency or want any edits to be added to this tutorial, please report it in the [discussion thread](https://bitcointalk.org/index.php?topic=5483310).
+
