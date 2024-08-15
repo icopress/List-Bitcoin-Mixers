@@ -92,5 +92,5 @@ But no matter what information you see online, be skeptical! In this particular 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
- If you come across something you don't understand, use Google. But no matter what information you see online, be skeptical! If you notice any inconsistency or want any edits to be added to this tutorial, please report it in the [discussion thread](https://bitcointalk.org/index.php?topic=5483310).
+ If you come across something you don't understand, use Google. But no matter what information you see online, be skeptical! If you notice any inconsistency or want any edits to be added to this tutorial, please report it in the [thread](https://bitcointalk.org/index.php?topic=5483310).
 
