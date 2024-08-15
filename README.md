@@ -1,38 +1,19 @@
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Discover%20trusted%20privacy%20services%20based%20on%20based%20on%20data%20collected%20by%20BitList&url=https://www.bitlist.co/&hashtags=bitcoin,kycfree,coinjoin,exchangers,mixers)
+    <a href="https://bitlist.co/"><img src="https://badgen.net/badge/Homepage/BitList/red"/></a>
+    <a href="https://t.me/icopress"><img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label" /></a>
+    <a href="https://bitlist.medium.com/"><img src="https://badgen.net/badge/icon/Medium?icon=medium&label" /></a>
+    <a href="https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also"><img src="https://badgen.net/badge/icon/BitList on Bitcoin Wiki?icon=wiki&label" /></a>
+    <a href="https://bitcointalk.org/index.php?topic=5483310"><img src="https://badgen.net/badge/icon/Bitcointalk Thread?icon=bitcoin&label" /></a>
+     <a href="https://bitcointalk.org/index.php?topic=5483310.msg64252274#msg64252274"><img src="https://badgen.net/static/Data/Verified/green" /></a>
+<h3 align="center">
+    BitList, a non-profit registry of Bitcoin mixers curated by the community.
+</h3>
+
 <p align="center">
   <a href="(https://bitlist.co/)">
     <img src="https://www.talkimg.com/images/2024/08/13/7dOaN.png">
   </a>
 </p>
-
-<h3 align="center">
-    BitList, a non-profit registry of Bitcoin mixers curated by the community.
-</h3>
-
-<h3 align="center">
-  <a href="https://bitlist.co/">
-    Website
-  </a>
-  <span> | </span>
-  <a href="https://wiki.bitlist.co/">
-    Wiki
-  </a>
-  <span> | </span>
-  <a href="https://bitcointalk.org/index.php?topic=5483310">
-    BitcoinTalk
-  </a>
-  <span> | </span>
-  <a href="https://www.altcoinstalks.com/index.php?topic=322018.0">
-    AltcoinTalk
-  </a>
-  <span> | </span>
-  <a href="https://bitlist.medium.com/">
-    Medium
-  </a>
-  <span> | </span>
-  <a href="https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also">
-    BitList on Bitcoin Wiki
-  </a>
-</h3>
 <h4 align="center">
     Data is tracked in real time: site status, activity in threads, year of creation, commission, AML status.
 </h4>
@@ -43,7 +24,7 @@ These kinds of news articles only harm the privacy niche, since editors do not c
 
 ### Cross-search
 
-- [BitList](https://bitlist.co/) - The list creator is a well-known Bitcointalk user and the information is verified by the community. Data is tracked in real time: site status, activity in discussion threads of these mixers, year of creation, commission, hashtags, **AML status**.
+- [BitList](https://bitlist.co/) - The list was created by a Bitcointalk user. Data is tracked in real time: site status, activity in discussion threads of these mixers, year of creation, commission, hashtags, **AML status**.
 - [BitMixList](https://bitmixlist.org/) - The creator of which is also a well-known Bitcointalk user. The site has a minimalistic interface, very good wiki page, year of creation, clearnet, tor, withdraw fee, mixing Fee. There is also a function for checking letters of guarantee.
 - [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2024 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 39532 times).
 - [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 18037 times).
@@ -71,3 +52,28 @@ But no matter what information you see online, be skeptical! In this particular 
 | [Coinomize](https://coinomize.biz/)     | 2020    | 1-5% | 0.003 - 10 BTC | [Yes](http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312735.0) | No rating |
 | [Whirto](https://whir.to/)     | 2023    | 1-2% | 0.001 - 10 BTC | [Yes](http://whirtorrgetftvz4g466sjqkegtyi35bjl4bvotfkfossunf5my4x6ad.onion/) | [Bitcointalk](https://bitcointalk.org/index.php?topic=5449968) | No rating |
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)     | 2015    | 0.5-1% | 0.001 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=919116.0) | No rating |
+<h3 align="center">
+  <a href="https://bitlist.co/">
+    Website
+  </a>
+  <span> | </span>
+  <a href="https://wiki.bitlist.co/">
+    Wiki
+  </a>
+  <span> | </span>
+  <a href="https://bitcointalk.org/index.php?topic=5483310">
+    BitcoinTalk
+  </a>
+  <span> | </span>
+  <a href="https://www.altcoinstalks.com/index.php?topic=322018.0">
+    AltcoinTalk
+  </a>
+  <span> | </span>
+  <a href="https://bitlist.medium.com/">
+    Medium
+  </a>
+  <span> | </span>
+  <a href="https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also">
+    BitList on Bitcoin Wiki
+  </a>
+</h3>
