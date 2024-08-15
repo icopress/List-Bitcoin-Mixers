@@ -30,7 +30,7 @@ These kinds of news articles only harm the privacy niche, since editors do not c
 ### Cross-search
 
 - [BitList](https://bitlist.co/) - The list was created by a Bitcointalk user. Data is tracked in real time: site status, activity in discussion threads of these mixers, year of creation, commission, hashtags, **AML status**.
-- [BitMixList](https://bitmixlist.org/) - The creator of which is also a well-known Bitcointalk user. The site has a minimalistic interface, very good wiki page, year of creation, clearnet, tor, withdraw fee, mixing Fee. There is also a function for checking letters of guarantee.
+- [BitMixList](https://bitmixlist.org/) - The site has a minimalistic interface, very good wiki page, year of creation, clearnet, tor, withdraw fee, mixing Fee. There is also a function for checking letters of guarantee.
 - [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2024 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 39532 times).
 - [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 18037 times).
 
