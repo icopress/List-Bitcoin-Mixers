@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-    A non-profit registry of Bitcoin mixers and anonymous exchanges curated by the community..
+    A non-profit registry of bitcoin mixers and anonymous exchanges curated by the community.
 </h4>
 
 ## Best Bitcoin Mixers in 2024?
