@@ -68,7 +68,7 @@ But no matter what information you see online, be skeptical! In this particular 
     Website
   </a>
   <span> | </span>
-  <a href="https://wiki.bitlist.co/">
+  <a href="https://bitlist.co/wiki">
     Wiki
   </a>
   <span> | </span>
