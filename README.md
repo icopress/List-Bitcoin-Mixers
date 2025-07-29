@@ -31,8 +31,8 @@ If you enter a phrase like “Best Bitcoin Mixer” you'll come across a dozen s
 
 - [BitList](https://bitlist.co/) - The list was created by a Bitcointalk user. Data is tracked in real time: site status, activity in discussion threads of these mixers, year of creation, commission, hashtags, **AML status**.
 - [BitMixList](https://bitmixlist.org/) - The site has a minimalistic interface, very good wiki page, year of creation, clearnet, tor, withdraw fee, mixing Fee. There is also a function for checking letters of guarantee.
-- [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2024 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 39532 times).
-- [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 18037 times).
+- [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2024 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 40109 times).
+- [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 36816 times).
 
 But no matter what information you see online, be skeptical! In this particular case, the resources mentioned are in the official [Bitcoin Wiki](https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also) (BitList & BitMixList). And if these aggregators do not have the Bitcoin mixer that you came across, then you should not trust such a mixer.
 
