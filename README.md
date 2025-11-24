@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-    Bitcoin Mixers Registry: Last Updated 07/30/2025
+    Bitcoin Mixers Registry: Last Updated 24/11/2025
 </h4>
 
 ## Best Bitcoin Mixers in 2024?
