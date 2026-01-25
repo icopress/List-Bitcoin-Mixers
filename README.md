@@ -31,8 +31,8 @@ If you enter a phrase like “Best Bitcoin Mixer” you'll come across a dozen s
 
 - [BitList](https://bitlist.co/) - The list was created by a Bitcointalk user. Data is tracked in real time: site status, activity in discussion threads of these mixers, year of creation, commission, hashtags, **AML status**.
 - [BitMixList](https://bitmixlist.org/) - The site has a minimalistic interface, very good wiki page, year of creation, clearnet, tor, withdraw fee, mixing Fee. There is also a function for checking letters of guarantee.
-- [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2024 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 40109 times).
-- [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 36816 times).
+- [List on Bitcointalk](https://bitcointalk.org/index.php?topic=2827109.0) by **LeGaulois** - "2026 List Bitcoin Mixers Bitcoin Tumblers Websites" (Read 40100 times).
+- [List on Altcointalk](https://www.altcoinstalks.com/index.php?topic=315215.0) by **examplens** - "LIST / Bitcoin mixers & Tumbler services" (Read 44,000 times).
 
 But no matter what information you see online, be skeptical! In this particular case, the resources mentioned are in the official [Bitcoin Wiki](https://en.bitcoin.it/wiki/Bitcoin_mixer#See_Also) (BitList & BitMixList). And if these aggregators do not have the Bitcoin mixer that you came across, then you should not trust such a mixer.
 
@@ -44,7 +44,6 @@ But no matter what information you see online, be skeptical! In this particular 
 | [MixTum](https://mixtum.io/)     | 2018    | 3-5% | 0.001 - 50 BTC | [Yes](http://mixtumjzn2tsiusfkdhutntamspsg43kgt764qbdaxjebce4h6fcfiad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314446.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=314446.msg1533631#msg1533631) |
 | [Mixerdream](https://mixerdream.com/)     | 2025    | 3.5% | 0.001 - 50 BTC | [Yes](http://ipyg3uxi25nxq3qvo7we26o5s6irencdkndv7orbxibzgbuhjmgnafad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=323873) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=323873.msg1839577#msg1839577) |
 | [Mixy](https://mixy.money/)     | 2022    | 3-5% | 0.001 - 50 BTC | [Yes](http://nlljgev5y27bajfoq7os2t6qv27y24hzpnvkmfjevhz4eg5ddbrciyid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314442.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=314442.msg1842865#msg1842865) |
-| [OkMixer](https://okmix.io/)     | 2025    | 3.5% | 0.001 - 50 BTC | [Yes](http://i3idblvmnkbak7n75fptzb6phe6sbdz57xr5d5ftqrt76dkfifzsgqyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=330844.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=330844.msg1782573#msg1782573) |
 | [Thormixer](https://thormixer.io/)     | 2023    | 4-5% | 0.003 - 50 BTC | [Yes](http://63tcvr7j5gju24emo3ygbxmezqmg7z2zyby27n647jmu4uzcosiduzid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=315199.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=315199.msg1582572#msg1582572) |
 | [TrustMixer](https://trustmixer.io/)     | 2025    | 4-5% | 0.001 - 50 BTC | [Yes](http://syucyrzphe2rgbdjqkk2weznaf2p2vfmo7iw3vpnt3afx4lxykts6hyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=332510.0) | [Low Risk](https://www.altcoinstalks.com/) |
 | [Zeusmix](https://zeusmix.to/)     | 2025    | 1-6% | $3000 ETH, SOL | [Yes](http://zeus2bl7i7ojs2qpkmi2razhkqnnw6zjztezazke2vijky2xbppotqid.onion) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=329812.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=329812.msg1775224#msg1775224) |
@@ -58,6 +57,7 @@ But no matter what information you see online, be skeptical! In this particular 
 | [Bitmixer](https://bitmixer.online/)     | 2022    | 3-5% | 0.001 - 50 BTC | [Yes](http://bitmixhft4cpncluhwffussk23ltvowswbe4tlrdree74oxjmz2vyqqd.onion/) | No | No rating|
 | [Mixero](https://mixero.io/)     | 2022    | 1-5% | 0.001 - 10 BTC | [Yes](http://mixeroyubx5g5yxaucsxcd767vn2lnujuuz2dh53quwabukhrok2ekid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312906.0) | No rating |
 | [Coinomize](https://coinomize.biz/)     | 2020    | 1-5% | 0.003 - 10 BTC | [Yes](http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312735.0) | No rating |
+| [OkMixer](https://okmix.io/)     | 2025    | 3.5% | 0.001 - 50 BTC | [Yes](http://i3idblvmnkbak7n75fptzb6phe6sbdz57xr5d5ftqrt76dkfifzsgqyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=330844.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=330844.msg1782573#msg1782573) |
 | [Whirto](https://whir.to/)     | 2023    | 1-2% | 0.001 - 10 BTC | [Yes](http://whirtorrgetftvz4g466sjqkegtyi35bjl4bvotfkfossunf5my4x6ad.onion/) | [Bitcointalk](https://bitcointalk.org/index.php?topic=5449968) | No rating |
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)     | 2015    | 0.5-1% | 0.001 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=919116.0) | No rating |
 
