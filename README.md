@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-    Bitcoin Mixers Registry: Last Updated 25/01/2026
+    Bitcoin Mixers Registry: Last Updated 26/01/2026
 </h4>
 
 ## Best Bitcoin Mixers in 2026?
@@ -60,6 +60,7 @@ But no matter what information you see online, be skeptical! In this particular 
 | [TrustMixer](https://trustmixer.io/)     | 2025    | 4-5% | 0.001 - 50 BTC | [Yes](http://syucyrzphe2rgbdjqkk2weznaf2p2vfmo7iw3vpnt3afx4lxykts6hyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=332510.0) | [Low Risk](https://www.altcoinstalks.com/) |
 | [OkMixer](https://okmix.io/)     | 2025    | 3.5% | 0.001 - 50 BTC | [Yes](http://i3idblvmnkbak7n75fptzb6phe6sbdz57xr5d5ftqrt76dkfifzsgqyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=330844.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=330844.msg1782573#msg1782573) |
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)     | 2015    | 0.5-1% | 0.001 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=919116.0) | No rating |
+| [LiquidMixer](https://www.liquidmixer.tech/)     | 2026    | 2-10% | 0.005 - 10 BTC | No | No | No rating |
 
 <h4 align="center">
     Data is tracked in real time: site status, activity in threads, year of creation, commission, AML status.
