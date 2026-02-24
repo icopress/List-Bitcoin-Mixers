@@ -57,7 +57,7 @@ But no matter what information you see online, be skeptical! In this particular 
 | [Bitmixer](https://bitmixer.online/)     | 2022    | 3-5% | 0.001 - 50 BTC | [Yes](http://bitmixhft4cpncluhwffussk23ltvowswbe4tlrdree74oxjmz2vyqqd.onion/) | No | No rating|
 | [Mixero](https://mixero.io/)     | 2022    | 1-5% | 0.001 - 10 BTC | [Yes](http://mixeroyubx5g5yxaucsxcd767vn2lnujuuz2dh53quwabukhrok2ekid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312906.0) | No rating |
 | [Coinomize](https://coinomize.biz/)     | 2020    | 1-5% | 0.003 - 10 BTC | [Yes](http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312735.0) | No rating |
-| [TrustMixer](https://trustmixer.io/)     | 2025    | 4-5% | 0.001 - 50 BTC | [Yes](http://syucyrzphe2rgbdjqkk2weznaf2p2vfmo7iw3vpnt3afx4lxykts6hyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=332510.0) | [Low Risk](https://www.altcoinstalks.com/) |
+| [TrustMixer](https://trustmixer.io/)     | 2025    | 4-5% | 0.001 - 50 BTC | [Yes](http://syucyrzphe2rgbdjqkk2weznaf2p2vfmo7iw3vpnt3afx4lxykts6hyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=332510.0) | No rating |
 | [OkMixer](https://okmix.io/)     | 2025    | 3.5% | 0.001 - 50 BTC | [Yes](http://i3idblvmnkbak7n75fptzb6phe6sbdz57xr5d5ftqrt76dkfifzsgqyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=330844.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=330844.msg1782573#msg1782573) |
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)     | 2015    | 0.5-1% | 0.001 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=919116.0) | No rating |
 
