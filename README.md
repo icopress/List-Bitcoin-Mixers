@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-    Bitcoin Mixers Registry: Last Updated 25/01/2026
+    Bitcoin Mixers Registry: Last Updated 02/03/2026
 </h4>
 
 ## Best Bitcoin Mixers in 2026?
@@ -41,7 +41,7 @@ But no matter what information you see online, be skeptical! In this particular 
 | Project       | Launched	                | Fees       |Mix Amount      |Thor Mirror      |Discussion Thread     |AML Rating       |
 | ------------- |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 | [Mixer.Money](https://mixer.money/)     | 2016    | 5% | 0.001 - 50 BTC | [Yes](http://mixermo4pgkgep3k3qr4fz7dhijavxnh6lwgu7gf5qeltpy4unjed2yd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=330994.0) | No rating |
-| [MixTum.io](https://mixtum.io/)     | 2018    | 3-5% | 0.001 - 50 BTC | [Yes](http://mixtumjzn2tsiusfkdhutntamspsg43kgt764qbdaxjebce4h6fcfiad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314446.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=314446.msg1533631#msg1533631) |
+| [MixTum.io](https://mixtum.io/)     | 2018    | 3-4% | 0.001 - 50 BTC | [Yes](http://mixtumjzn2tsiusfkdhutntamspsg43kgt764qbdaxjebce4h6fcfiad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314446.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=314446.msg1533631#msg1533631) |
 | [Bmix](https://bmix.io/)     | 2025    | 5% | 0.001 - 50 BTC | [Yes](http://bmixxxxfocq25rhv3bv5xfbmdcdgc4bdt455cc3qe3gt5evufllf36id.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=336066) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=336066.msg1955024#msg1955024) |
 | [Mixerdream](https://mixerdream.com/)     | 2025    | 5% | 0.001 - 50 BTC | [Yes](http://ipyg3uxi25nxq3qvo7we26o5s6irencdkndv7orbxibzgbuhjmgnafad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=323873) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=323873.msg1839577#msg1839577) |
 | [DreadPirate](https://dreadpirate.io/)     | 2025    | 5% | 0.01 - 10 BTC | [Yes](https://dreadpirate.io/dreadpirate.uf64coiynj4s7on3dus6ww5ap25vnih6ha3iug7ex7odmkaqikubigqd.onion) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=339855) | No rating |
