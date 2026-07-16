@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-    Bitcoin Mixers Registry: Last Updated 19/05/2026
+    Bitcoin Mixers Registry: Last Updated 16/07/2026
 </h4>
 
 ## Best Bitcoin Mixers in 2026?
@@ -46,6 +46,7 @@ But no matter what information you see online, be skeptical! In this particular 
 | [Mixerdream](https://mixerdream.com/)     | 2022    | 5% | 0.001 - 50 BTC | [Yes](http://ipyg3uxi25nxq3qvo7we26o5s6irencdkndv7orbxibzgbuhjmgnafad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=323873) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=323873.msg1839577#msg1839577) |
 | [Thormixer](https://thormixer.io/)     | 2023    | 5% | 0.001 - 50 BTC | [Yes](http://63tcvr7j5gju24emo3ygbxmezqmg7z2zyby27n647jmu4uzcosiduzid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=315199.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=315199.msg1582572#msg1582572) |
 | [Bitxer.io](https://www.bitxer.io/)     | 2026    | 4-5% | 0.003 - 50 BTC | [Yes](https://diqv32nkt3npxxhmb32wm3halrynjvuyp7f2mom6nsogds6ws2tkxbqd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=342473) | No rating |
+| [Wmix.to](https://wmix.to/)     | 2026    | 5% | 0.001 - 50 BTC | [Yes](http://wmixerdmg2ugsrnae5roeedq2qxtly5cbcmr57iqbpcetyfb4fs2txad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=345877) | No rating |
 | [Webmixer](https://webmixer.io/en/)     | 2020    | 5% | 0.001 - 50 BTC | [Yes](http://webmix2nwd6qpq6tjkqshfivt3qqjoutl535xk2z32tgapqfn52z62yd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314445.0) | No rating |
 | [Zeusmix](https://zeusmix.to/)     | 2025    | 1-6% | ETH, SOL | [Yes](http://zeus2bl7i7ojs2qpkmi2razhkqnnw6zjztezazke2vijky2xbppotqid.onion) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=329812.0) | [Low Risk](https://www.altcoinstalks.com/index.php?topic=329812.msg1775224#msg1775224) |
 | [Mixtut Shop](https://mixtut.shop/)     | 2025    | 5% | 0.001 - 50 BTC | [Yes](http://s6dcwsjfjrso7duzarvpye4odjsqndllfce32f4q6mpxdztxgahy55ad.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=338058.0) | No rating|
