@@ -55,13 +55,12 @@ But no matter what information you see online, be skeptical! In this particular 
 | [Ginger Wallet](https://gingerwallet.io/)     | 2024    | 0.3% | 0.01 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=5501302.0) | No rating |
 | [Anonymixer](https://anonymixer.com/)     | 2020    | 3% | 0.001 - 10 BTC | [Yes](http://btcmixer2e3pkn64eb5m65un5nypat4mje27er4ymltzshkmujmxlmyd.onion/) | [Bitcointalk](https://bitcointalk.org/index.php?topic=5269927.0) | No rating|
 | [Mixtura](https://mixtura.money/)     | 2021    | 5% | 0.001 - 50 BTC | [Yes](http://3lqpiyzlqudwxiizx6uecc6z5zr6vvxidyi6inuducc7lilsdem2mlqd.onion/) | No | No rating|
-| [Medusa](https://medusamixer.io/)     | 2022    | 5% | 0.001 - 50 BTC | [Yes](http://medusai2ilfadlzravtpohsnyotfsymdqv3zqmdzoonbyfbygqxrh2qd.onion/) | No | No rating|
-| [Bitmixer](https://bitmixer.online/)     | 2022    | 5% | 0.001 - 50 BTC | [Yes](http://bitmixhft4cpncluhwffussk23ltvowswbe4tlrdree74oxjmz2vyqqd.onion/) | No | No rating|
+| [JustMix](https://justmix.io/)     | 2026    | 5% | 0.001 - 50 BTC | [Yes](http://u3hjapejx4z4xhlt2xe4os73b44zd2taragn3qt4dmssvkpsbwfvmpid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=346249.0) | No rating |
 | [Mixero](https://mixero.io/)     | 2022    | 5% | 0.001 - 10 BTC | [Yes](http://mixeroyubx5g5yxaucsxcd767vn2lnujuuz2dh53quwabukhrok2ekid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312906.0) | No rating |
 | [Coinomize](https://coinomize.biz/)     | 2020    | 5% | 0.003 - 10 BTC | [Yes](http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312735.0) | No rating |
 | [Mixy](https://mixy.money/)     | 2022    | 5% | 0.001 - 50 BTC | [Yes](http://nlljgev5y27bajfoq7os2t6qv27y24hzpnvkmfjevhz4eg5ddbrciyid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314442.0) | No rating |
 | [TrustMixer](https://trustmixer.io/)     | 2025    | 5% | 0.001 - 50 BTC | [Yes](http://syucyrzphe2rgbdjqkk2weznaf2p2vfmo7iw3vpnt3afx4lxykts6hyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=332510.0) | No rating |
-| [JustMix](https://justmix.io/)     | 2026    | 5% | 0.001 - 50 BTC | [Yes](http://u3hjapejx4z4xhlt2xe4os73b44zd2taragn3qt4dmssvkpsbwfvmpid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=346249.0) | No rating |
+| [Owlmix](https://owlmix.cc/)     | 2026    | 7% | ETH | [Yes](http://owlmixbku7h2ir56i77gd643gjhfrqsqpjxnmpkoy4mdlimma4nif5id.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=346637) | No rating |
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)     | 2015    | 0.5-1% | 0.001 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=919116.0) | No rating |
 
 <h4 align="center">
