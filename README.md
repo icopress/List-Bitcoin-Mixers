@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-    Bitcoin Mixers Registry: Last Updated 16/07/2026
+    Bitcoin Mixers Registry: Last Updated 18/08/2026
 </h4>
 
 ## Best Bitcoin Mixers in 2026?
@@ -61,7 +61,7 @@ But no matter what information you see online, be skeptical! In this particular 
 | [Coinomize](https://coinomize.biz/)     | 2020    | 5% | 0.003 - 10 BTC | [Yes](http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=312735.0) | No rating |
 | [Mixy](https://mixy.money/)     | 2022    | 5% | 0.001 - 50 BTC | [Yes](http://nlljgev5y27bajfoq7os2t6qv27y24hzpnvkmfjevhz4eg5ddbrciyid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=314442.0) | No rating |
 | [TrustMixer](https://trustmixer.io/)     | 2025    | 5% | 0.001 - 50 BTC | [Yes](http://syucyrzphe2rgbdjqkk2weznaf2p2vfmo7iw3vpnt3afx4lxykts6hyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=332510.0) | No rating |
-| [OkMixer](https://okmix.io/)     | 2025    | 5% | 0.001 - 50 BTC | [Yes](http://i3idblvmnkbak7n75fptzb6phe6sbdz57xr5d5ftqrt76dkfifzsgqyd.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=330844.0) | No rating |
+| [JustMix](https://justmix.io/)     | 2026    | 5% | 0.001 - 50 BTC | [Yes](http://u3hjapejx4z4xhlt2xe4os73b44zd2taragn3qt4dmssvkpsbwfvmpid.onion/) | [Altcointalk](https://www.altcoinstalks.com/index.php?topic=346249.0) | No rating |
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver)     | 2015    | 0.5-1% | 0.001 - 10 BTC | No | [Bitcointalk](https://bitcointalk.org/index.php?topic=919116.0) | No rating |
 
 <h4 align="center">
